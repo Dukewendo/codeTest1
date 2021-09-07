@@ -1,0 +1,32 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color:azure
+}
+
+div {
+    color:azure;
+    font-size: 20px;
+}
+
+body {
+    background-color: black;
+}
+
+#campaign-0-name {
+    color: blue;
+    font-size: 30px;
+}
+
+#campaign-1-name {
+    color: purple;
+    font-size: 30px;
+}
+
+#campaign-2-name {
+    color: green;
+    font-size: 30px;
+}
